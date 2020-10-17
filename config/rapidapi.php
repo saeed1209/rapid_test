@@ -8,6 +8,6 @@
 
 return [
     'base_url'=>'https://rapidapi.p.rapidapi.com/',
-    'x-rapidapi-key'=>'0baba15377msh99543cefc81ce28p1a46dcjsn10525b4fba8f',
+    'x-rapidapi-key'=>env('X_RAPIDAPI_KEY'),
     "x-rapidapi-host"=>"apidojo-yahoo-finance-v1.p.rapidapi.com"
 ];
